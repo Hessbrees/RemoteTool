@@ -1,2 +1,2 @@
 # RemoteTool
-Tool for deploy changes in cloud remote files from one enviroment to another
+Tool for fast deploy changes in cloud remote keys from one enviroment to another
